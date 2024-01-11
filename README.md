@@ -1,4 +1,4 @@
-# Movie-Correlation-Project
+# Movie-Correlation-Python-Project
 ![movies](https://github.com/JennaDahan/Movie-Correlation-Python-Project/assets/142054522/c67167a0-ce33-46c1-8952-b886a054cedc)
 
 

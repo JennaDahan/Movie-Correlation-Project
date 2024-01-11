@@ -1,5 +1,6 @@
 # Movie-Correlation-Project
-![movie](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhcctimes.org%2F2023%2F11%2Fwhy-are-movies-flopping%2F&psig=AOvVaw3RP1hvGu0PnBxIJARTkoHN&ust=1705081075573000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPih6ZLw1YMDFQAAAAAdAAAAABAQ)
+![movies](https://github.com/JennaDahan/Movie-Correlation-Python-Project/assets/142054522/c67167a0-ce33-46c1-8952-b886a054cedc)
+
 
 ### Purpose
 - To analyse the **correlation** of the movie budget, comapny, and country to the gross income amongst different movies. 

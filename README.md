@@ -3,7 +3,7 @@
 
 
 ### Purpose
-- To analyse the **correlation** of the movie budget, comapny, and country to the gross income amongst different movies. 
+- To analyse the **correlation** of the movie budget, company, and country to the gross income amongst different movies. 
 
 ### Specific Tasks to Explore in Python
 - **Step 1**: Importing libraries, reading in the data, and viewing the data.
@@ -18,7 +18,8 @@
 - What does the correlation of the country and gross income look like?
 - What does the correlation of the movie company and gross income look like?
 
-### Final Results - come back!!!
+### Final Results
+- Can be found in step 6 of the Python file. 
 
 ### Tools Utilized
 - Programming Language: Python
